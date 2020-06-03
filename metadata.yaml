@@ -1,5 +1,5 @@
 _repo: Peril-of-the-Blue-World_62241
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Graef, Robert A.
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1951
     gutenberg_agent_id: '47273'
     url: http://www.gutenberg.org/2009/agents/47273
+covers:
+- cover_type: archival
+  image_path: 62241-h/images/cover.jpg
 creator:
   author:
     agent_name: Abernathy, Robert
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35455
     wikipedia: http://en.wikipedia.org/wiki/Robert_Abernathy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62241#Peril-of-the-Blue-World
 gutenberg_issued: '2020-05-26'
 gutenberg_type: Text
 identifiers:
